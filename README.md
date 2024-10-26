@@ -33,7 +33,7 @@ A full-stack Rule Engine application that allows users to create, manage, and ev
 ### Getting Started
 1. **Clone the Repository**
    ```bash
-   git clone 
+   git clone https://github.com/dkkadam/Rule-Engine-Application-Zeotap.git
    cd rule-engine-application
 
 ## Project Structure
